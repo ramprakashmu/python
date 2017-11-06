@@ -5,5 +5,3 @@ def functionDefination(n):
         return "other"
 
 print(functionDefination(0))
-
-
